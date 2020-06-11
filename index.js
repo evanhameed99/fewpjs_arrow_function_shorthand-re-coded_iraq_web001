@@ -1,1 +1,3 @@
-let divide = (dividend,divisor)=>{}
+let divide = (dividend,divisor)=>{
+  
+}
